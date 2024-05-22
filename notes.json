@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "This is note 1",
+      "rank": 3.9
+    },
+    {
+      "id": 2,
+      "title": "This is note 2",
+      "rank": 3.8
+    }
+  ]
+}
